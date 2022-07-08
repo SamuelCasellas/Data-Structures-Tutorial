@@ -69,6 +69,9 @@ keep track in the program itself how many items are in the queue or insert
 this logic directly into the Queue class yourself. If you would like to use 
 a sample text file for the songs, use [this](Other_Files/queue_example_songs.txt).
 
+HINT: If you want to iterate through each item in the queue, you will need to define 
+the "\_\_iter\_\_" macro using the `yield` rather than the `return` keyword.
+
 Check out the solution when finished:
 
 - [Song program solution](Python_Files/Queue/random_shuffle.py)
