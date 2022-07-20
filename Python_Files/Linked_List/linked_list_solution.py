@@ -40,7 +40,6 @@ class LinkedList:
         self.head = self.head.next
         return return_head.data
 
-    # ### INCLUDED RETURN TAIL METHOD ###
     # def remove_and_return_tail(self):
     #     # Get the current tail
     #     return_tail = self.tail
@@ -54,6 +53,8 @@ class LinkedList:
         """Insert a new node in linked list so that the order of the data is preserved
         Assume that the data is in ascending order.
         index: if the node's data is a list and a specific data needs to be assessed.
+        replace_seq: insert / to remove the slashes in the dates to properly sort them 
+        chronologically.
         """
         # 4 outcomes:
         # 1. The data is smaller than the rest of the data (new head needed)
