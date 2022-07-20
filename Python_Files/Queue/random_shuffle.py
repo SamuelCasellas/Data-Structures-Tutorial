@@ -1,5 +1,6 @@
 """
 Random Shuffle Solution
+Author: Samuel Casellas
 """
 
 from random import randint

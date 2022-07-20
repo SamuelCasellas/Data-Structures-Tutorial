@@ -1,4 +1,4 @@
-# Tutorials with Data Structures in Python
+# Welcome
 
 Welcome to my tutorial on data structures in Python! Here you will be introduced to different data structures, learn of their purposes, and have the chance to code up your own implementations of them after seeing an example. But first, what exactly is a data structure?
 
@@ -17,6 +17,8 @@ Here we will look at the following data structures. Click on the link to be dire
 - [Trees tutorial](3-tree.md)
 
 # Contact
+
+Author: Samuel Casellas
 
 For questions or comments, please email me at:
 cas18010@byui.edu

@@ -17,7 +17,7 @@ first out.
 
 Now how can storing and retrieving data act the same way? 
 Let's look at the following:
-![A queue has two functionalities: an enqueue and a dequeue.](Picture_Files/Queue.png)
+![A queue has two functionalities: an enqueue and a dequeue. SOURCE: Wikimedia Commons](Picture_Files/Queue.png)
 
 This is a queue. As you can see, the first piece of data that is 
 retrieved, or dequeued, from the list was the first one to enter, 
